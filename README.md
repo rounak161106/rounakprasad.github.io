@@ -11,7 +11,7 @@ Visit: [rounakprasad.github.io](https://rounakprasad.github.io)
 - Data Science Fundamentals
 - Python & Java Programming
 - Web Development (HTML, CSS, JS)
-- Problem Solving (Leetcode: Strings & Arrays)
+- Problem Solving 
 
 ## Contact
 Feel free to connect with me on [https://www.linkedin.com/in/rounakprasad](#) or check out my [https://github.com/rounak161106](#) for more!
