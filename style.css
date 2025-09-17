@@ -23,3 +23,13 @@ h2 {
 #github-calendar {
   margin: 30px auto;
 }
+
+.profpic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-image: url('Profile Pic.jpeg');
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto 20px auto;
+}
