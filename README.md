@@ -5,7 +5,7 @@ Welcome to my personal portfolio website!
 I am Rounak Prasad, an aspiring Data Scientist currently pursuing dual degrees at LPU and IITM. This website showcases my learning journey, foundational web development skills, coding projects, and ongoing progress in data science.
 
 ## Live Portfolio
-Visit: [rounakprasad.github.io](https://rounakprasad161106.github.io)
+Visit: [rounakprasad.github.io](https://rounak161106.github.io/)
 
 ## Skills
 - Data Science Fundamentals
